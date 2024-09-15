@@ -1,0 +1,7 @@
+{
+  "name": "appAyudo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
